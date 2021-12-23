@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with Programming Languages
 - 💬 Ask me about Security and Network Technologies
 - 📫 How to reach me: freshet.baize.0z@icloud.com
-- 😄 Pronouns: "Ran" + "Ga"
+- 😄 Pronouns: "Run" + "Ga"
 - ⚡ Fun fact: Cinematography 
