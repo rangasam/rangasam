@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Cloud Migrations
-- 🌱 I’m currently learning Cloud Integrations
+- 🌱 I’m currently learning Cloud Integrations, AI & ML
 - 👯 I’m looking to collaborate on Cloud Technologies
 - 🤔 I’m looking for help with Programming Languages
 - 💬 Ask me about Security and Network Technologies
